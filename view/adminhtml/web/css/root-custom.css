@@ -1,0 +1,12 @@
+.admin__menu .level-0.item-wtrootmenu > a:before {
+/*    content: url('../images/icon.png');
+    height: 28px !important;
+    margin: 0 auto;
+    width: 30px !important;*/
+    content: '';
+    background-image:url("../images/icon.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+  	background-position: center;
+}
+
